@@ -1,7 +1,7 @@
 ---
-title: "M - Home"
+title: "Maveric - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Micro Architecture Verification Center at NU"
 sitemap: false
 permalink: /
 ---
