@@ -1,0 +1,17 @@
+TODO:
+* Add links to social
+* Add partners section
+* Add pics of the team
+* Change footer
+* Change the navigation
+* Fix all buttons
+* Create a seperate page for "all news"
+
+
+DONE:
+* Change page title
+* Change favicon
+* Add department to Nursultan's box
+* Make logo
+* Change address
+* Remove contact form
